@@ -8,3 +8,5 @@
 * <code>git push origin --delete branch</code> Apaga a branch remoto
 * <code>git branch <antigo_nome> <novo_novo></code> Renomear branch em qualquer lugar
 * <code>git branch <novo_novo></code> Renomear branch dentro da branch
+### Commits
+* <code>git commit --amend</code> Ajusta informaçes do ultimo commit
