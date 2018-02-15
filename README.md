@@ -10,3 +10,4 @@
 * <code>git branch <novo_novo></code> Renomear branch dentro da branch
 ### Commits
 * <code>git commit --amend</code> Ajusta informaçes do ultimo commit
+* <code>git reset --soft HEAD^</code> Commitar na branch errada e não subiu
