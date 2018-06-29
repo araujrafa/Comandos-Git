@@ -11,3 +11,7 @@
 ### Commits
 * <code>git commit --amend</code> Ajusta informaçes do ultimo commit
 * <code>git reset --soft HEAD^</code> Commitar na branch errada e não subiu
+* <code>git update-index --assume-unchanged file/directory</code> Esconder um arquivo sem precisar coloca-lo no .gitignore
+
+### Links úteis
+* <code>Esconder um arquivo sem precisar coloca-lo no .gitignore</code> https://stackoverflow.com/questions/655243/ignore-modified-but-not-committed-files-in-git
