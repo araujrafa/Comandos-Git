@@ -16,3 +16,4 @@
 
 ### Links úteis
 * <code>Esconder um arquivo sem precisar coloca-lo no .gitignore</code> https://stackoverflow.com/questions/655243/ignore-modified-but-not-committed-files-in-git
+* <code>Apagar branchs, inclusive comando para limpar branchs mergeadas</code> https://stackoverflow.com/questions/6127328/how-can-i-delete-all-git-branches-which-have-been-merged
